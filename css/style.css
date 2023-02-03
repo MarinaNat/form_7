@@ -140,6 +140,7 @@ textarea {
 	color: #fff;
 	box-shadow: inset 2px -2px 12px rgba(34, 111, 33, 0.36);
 	border-radius: 17px;
+	transition: background ease-in-out 0.5s;
 }
 
 .button:hover {
